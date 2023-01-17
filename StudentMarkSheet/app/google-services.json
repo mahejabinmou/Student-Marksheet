@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "195864462382",
+    "project_id": "student-mark-sheet-80f6e",
+    "storage_bucket": "student-mark-sheet-80f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195864462382:android:288df1d26b8ab2160d4bbf",
+        "android_client_info": {
+          "package_name": "com.mou.studentmarksheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195864462382-gg03fau15s5aq419vpds8cfofmf9q0ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBTqNbqSJD8OzSq4qOCbG04WkTs12zcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195864462382-gg03fau15s5aq419vpds8cfofmf9q0ic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
